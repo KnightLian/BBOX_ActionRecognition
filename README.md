@@ -1,2 +1,3 @@
 ARN
 
+CNN+LSTM+FC
